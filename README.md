@@ -30,4 +30,4 @@ The best model is the Decision Tree. It presented the highest Jaccard and F1 sco
 
 
 ## Obs
-This is the Capstone Project of the course *Machine Learning with Python* developed by IBM Skills Network and offered on Coursera.
+This is the Capstone Project of the course *Machine Learning with Python*, an online non-credit course authorized by IBM Skills Network and offered through Coursera.
